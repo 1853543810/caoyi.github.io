@@ -203,14 +203,3 @@
 			<p>
 				最近将看的书：你当像鸟飞往你的山
 			</p>
-			
-			<p>
-				<span class="label">文艺标签</span>
-			</p>
-			<div class="progress">
-				<div class="bar">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>

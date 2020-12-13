@@ -131,7 +131,8 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="item">
-						<img alt="" src="http://ibaoan.sznews.com/pic/2018-08/28/d6a64ddf-e05c-47c7-820d-123b37544557.jpg" />
+						<img alt="" src="http://ibaoan.sznews.com/pic/2018-08/28/d6a64ddf-e05c-47c7-820d-123b37544557.jpg
+" />
 						<div class="carousel-caption">
 							<h4>
 								棒球
@@ -196,3 +197,18 @@
 			<p>
 				<strong>良心发现时的自觉</strong>
 			</p>
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<p>
+				最近看过的书：《狼图腾》，《皮囊》
+			</p>
+			<p>
+				最近在看的书：《追忆似水年华》
+			</p>
+			<p>
+				最近将看的书：《你当像鸟飞往你的山》
+			</p>
+		</div>
+	</div>
+</div>

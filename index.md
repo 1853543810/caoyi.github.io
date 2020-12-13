@@ -131,7 +131,8 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="item">
-						<img alt="" src="img/1.jpg" />
+						<img alt="" src="https://p0.ssl.qhimgs1.com/t0107b1afdddd22759e.jpg
+" />
 						<div class="carousel-caption">
 							<h4>
 								棒球
@@ -142,7 +143,8 @@
 						</div>
 					</div>
 					<div class="item active">
-						<img alt="" src="img/2.jpg" />
+						<img alt="" src="http://pic.carnoc.com/file/181226/18122603373282.jpg
+" />
 						<div class="carousel-caption">
 							<h4>
 								冲浪
@@ -153,7 +155,8 @@
 						</div>
 					</div>
 					<div class="item">
-						<img alt="" src="img/3.jpg" />
+						<img alt="" src="http://c2.biketo.com/d/file/product/bikes/news/2017-08-01/19f9073e6988bb05bc3a5bc9cd902e0d.jpg
+" />
 						<div class="carousel-caption">
 							<h4>
 								自行车

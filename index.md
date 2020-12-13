@@ -131,8 +131,7 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="item">
-						<img alt="" src="https://p0.ssl.qhimgs1.com/t0107b1afdddd22759e.jpg
-" />
+						<img alt="" src="http://ibaoan.sznews.com/pic/2018-08/28/d6a64ddf-e05c-47c7-820d-123b37544557.jpg" />
 						<div class="carousel-caption">
 							<h4>
 								棒球

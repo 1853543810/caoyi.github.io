@@ -3,7 +3,7 @@
 	<div class="row-fluid">
 		<div class="span12">
 			<p>
-				<em><strong>A Brief History of me</strong></em>（<strong>谨以此名致敬时间简史</strong>）
+				<em><strong>A Brief History of Me</strong></em>（<strong>谨以此名致敬时间简史</strong>）
 			</p>
 		</div>
 	</div>
@@ -198,11 +198,11 @@
 				<strong>良心发现时的自觉</strong>
 			</p>
 			<p>
-				最近已看的书：狼图腾，皮囊
+				最近已看的书:<<狼图腾>>，<<皮囊>>
 			</p>
 			<p>
-				最近在看的书：追忆似水流年
+				最近在看的书:<<追忆似水年华>>
 			</p>
 			<p>
-				最近将看的书：你当像鸟飞往你的山
+				最近将看的书：<<你当像鸟飞往你的山>>
 			</p>
